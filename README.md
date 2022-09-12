@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://sergi-github-readme-stats.vercel.app/api/top-langs?username=sergi-s&langs_count=5&hide=jupyter%20notebook&layout=compact)](https://github.com/sergi-s/sergi-s)
+
+[![Sergi's GitHub stats](https://sergi-github-readme-stats.vercel.app/api?username=sergi-s)](https://github.com/sergi-s/sergi-s)
+
 <!--
 **sergi-s/sergi-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

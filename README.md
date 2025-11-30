@@ -6,12 +6,11 @@ I'm a computer science enthusiast currently pursuing my master's degree at Memor
 
 ## 🚀 What I'm Up To
 
-- 📚 Currently exploring advanced search algorithms as part of my academic journey.
+- Fighting financial crime at Nasdaq Verafin.
 
 ## 💼 Open for Collaboration
 
 - 💻 I'm open to collaborating on exciting freelance opportunities.
-- 🌐 Seeking guidance or have questions about Node.js? Feel free to reach out!
 
 ## 🌱 Let's Connect
 
